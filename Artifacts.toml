@@ -1,115 +1,143 @@
 [[CLIME]]
 arch = "aarch64"
-git-tree-sha1 = "eebd6d129bfe2243d8cf01232781ab97847c6d86"
-libc = "glibc"
-os = "linux"
-
-    [[CLIME.download]]
-    sha256 = "dde71e7f322764a8181c71e4f44b17f75371de418c55cb466355782a94a90969"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.aarch64-linux-gnu.tar.gz"
-[[CLIME]]
-arch = "aarch64"
-git-tree-sha1 = "72ceeb34a326f36d996344681879a19e1eeee727"
-libc = "musl"
-os = "linux"
-
-    [[CLIME.download]]
-    sha256 = "071a22320f98564b39ac560c83bba09ef8a4d75913621d695a5b2a517e0814ce"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.aarch64-linux-musl.tar.gz"
-[[CLIME]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "a0d0e2f363e30d43b3d51ab0cfd508e493155274"
-libc = "glibc"
-os = "linux"
-
-    [[CLIME.download]]
-    sha256 = "e04bd71551a61b79ae3c5360397dbcd8bbde7d00f41a0fa9a348f47c50fccd25"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.armv7l-linux-gnueabihf.tar.gz"
-[[CLIME]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "f583d0a1d7f3d380e82e5f99bd218f10b63f10b0"
-libc = "musl"
-os = "linux"
-
-    [[CLIME.download]]
-    sha256 = "0b9c279764e75766d8bce64c7b8fe2235c54839e9ee32c72d2009d11cec696fc"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.armv7l-linux-musleabihf.tar.gz"
-[[CLIME]]
-arch = "i686"
-git-tree-sha1 = "4e1fb6913b8e0041d94c2e046c7cab7e563032a9"
-libc = "glibc"
-os = "linux"
-
-    [[CLIME.download]]
-    sha256 = "f3564f95822b383797c830c1bcfad4839c535ce7e7e0f7df0dd4bf3ffdd2938a"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.i686-linux-gnu.tar.gz"
-[[CLIME]]
-arch = "i686"
-git-tree-sha1 = "2c4b61ea009cc5f8a04ba8338e6b50386ee84e79"
-libc = "musl"
-os = "linux"
-
-    [[CLIME.download]]
-    sha256 = "3a1116da517df91f6e737e8a29efabcbfcf234625d575dae0bc9c6e0b7212df6"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.i686-linux-musl.tar.gz"
-[[CLIME]]
-arch = "i686"
-git-tree-sha1 = "4a93fc6e2fc48510b6cd2f4ae426dceb8fdd3617"
-os = "windows"
-
-    [[CLIME.download]]
-    sha256 = "1c3abda28eb55e297be2b975b4dcf4fb9755016a2c21a1f14a874ab65e0be091"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.i686-w64-mingw32.tar.gz"
-[[CLIME]]
-arch = "powerpc64le"
-git-tree-sha1 = "14f2dff04665d526376e2457743ae8ea0db948e7"
-libc = "glibc"
-os = "linux"
-
-    [[CLIME.download]]
-    sha256 = "2f40affa90e3eb02913dc267e96534bcc6cf90ea21b9a2f8c420493dfcb55a2e"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.powerpc64le-linux-gnu.tar.gz"
-[[CLIME]]
-arch = "x86_64"
-git-tree-sha1 = "4f515e09f17dcf6670a0508472c49d32615aae5b"
+git-tree-sha1 = "9bef2af4691ae1832ffcc16e8377326e0d3019d1"
 os = "macos"
 
     [[CLIME.download]]
-    sha256 = "862c777fd66f9cb5c7de28003bdf49ff3abff750a267a4e0c22531ead6ac1b16"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "76b6834c2c7057226ea0fcba49336b1539324efb8ff5092af7fcb500e5812430"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.aarch64-apple-darwin.tar.gz"
 [[CLIME]]
-arch = "x86_64"
-git-tree-sha1 = "956c034664a47432fb939c150f20b214de16be1c"
+arch = "aarch64"
+git-tree-sha1 = "b824f3d8a685549930515133cd4c197af335b2ac"
 libc = "glibc"
 os = "linux"
 
     [[CLIME.download]]
-    sha256 = "3fe0d881416ac4b40f8c3a8401b6e7898cb65da431a8c6338e97071595600d1d"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "2cfea90acb6794fb6adebc9b19efd1da62a93ae80285d5d71227de386341f56f"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.aarch64-linux-gnu.tar.gz"
 [[CLIME]]
-arch = "x86_64"
-git-tree-sha1 = "346d15ba332c9d43d7fa3a6eb5ce1c2815a450b4"
+arch = "aarch64"
+git-tree-sha1 = "11d21cf9bded3d4d070a6335ee35cc71bf3db10b"
 libc = "musl"
 os = "linux"
 
     [[CLIME.download]]
-    sha256 = "db517f1a578e7d9ad2596f6f16330b68daea78df7dfd77848e6cf7782cddc6c0"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.x86_64-linux-musl.tar.gz"
+    sha256 = "d69007f2fdc69c16d9c81ca6fa772b2b8e8005e22b499508c59b04ad75be1299"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.aarch64-linux-musl.tar.gz"
 [[CLIME]]
-arch = "x86_64"
-git-tree-sha1 = "8c1701643bb04aa39587da9ae50c44aca0b79802"
-os = "freebsd"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "19a539cd13c6d41e6acee97f26673ebadcba00c0"
+libc = "glibc"
+os = "linux"
 
     [[CLIME.download]]
-    sha256 = "15de97b35dfb4aae242c22ed8f10d99781135fd225ca09c6821497440abc15fa"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "addba1ccd6b9ab756d3d75d843aeb23b570d0ac0aa0dc375a79babb134f574de"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.armv6l-linux-gnueabihf.tar.gz"
 [[CLIME]]
-arch = "x86_64"
-git-tree-sha1 = "7bb0f689f0cce03d7bd2612b2e49675e1041f942"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "bebb9651902aca7581ed0a8f9f2a9bd2a830655b"
+libc = "musl"
+os = "linux"
+
+    [[CLIME.download]]
+    sha256 = "b05f78ca209b6756848a3bae0ee4657c4a11f1b53f3be7e505fa8bef43420703"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.armv6l-linux-musleabihf.tar.gz"
+[[CLIME]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "56e5f710d610da1b3b4d64d50b5c3a4346b3074a"
+libc = "glibc"
+os = "linux"
+
+    [[CLIME.download]]
+    sha256 = "6ee553bcc5f96c9f04b252febb42ac71ed9b5c128dfe131890c0f21962e6b7b6"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.armv7l-linux-gnueabihf.tar.gz"
+[[CLIME]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "14ef48425a015b31df7dd595c273e3d7bae5095e"
+libc = "musl"
+os = "linux"
+
+    [[CLIME.download]]
+    sha256 = "9b905507b905c97c7a8d634a629fcf6401d36db22a46ac4b3d3bade835571923"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.armv7l-linux-musleabihf.tar.gz"
+[[CLIME]]
+arch = "i686"
+git-tree-sha1 = "558f51b8d423f9da9ac30ba711164f59f004c1f1"
+libc = "glibc"
+os = "linux"
+
+    [[CLIME.download]]
+    sha256 = "79bae56598e28f1d0a15441d0b61e332728972e197c2e7b91e183cac25138ee4"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.i686-linux-gnu.tar.gz"
+[[CLIME]]
+arch = "i686"
+git-tree-sha1 = "e65d4c271f6de5f5698bb4858f2617156b79c131"
+libc = "musl"
+os = "linux"
+
+    [[CLIME.download]]
+    sha256 = "9084019910d2439124eec3d0de7672d08bf8fa53ef9a40a344c7502fad40d9ec"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.i686-linux-musl.tar.gz"
+[[CLIME]]
+arch = "i686"
+git-tree-sha1 = "411be8992183771ad94306ff1298be8c3090d8ec"
 os = "windows"
 
     [[CLIME.download]]
-    sha256 = "61b170ac325d60eaea50c8208648dea531ae1e060df6b3b4d0a0f5a1eb888bd3"
-    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.1+0/CLIME.v1.3.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "571f41ad48571340d34bdafb6d10dd964b98ba147522442a3c7fb7aacad403ba"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.i686-w64-mingw32.tar.gz"
+[[CLIME]]
+arch = "powerpc64le"
+git-tree-sha1 = "beaea387b803a5ee89bddec759786e2a3cb18a28"
+libc = "glibc"
+os = "linux"
+
+    [[CLIME.download]]
+    sha256 = "566fd81f2d419009765569d1dd6e96cd51578f94b8df76d23d1f7da50d817680"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.powerpc64le-linux-gnu.tar.gz"
+[[CLIME]]
+arch = "x86_64"
+git-tree-sha1 = "c12f56563dd845406b384d3aa3273f901c27a0a6"
+os = "macos"
+
+    [[CLIME.download]]
+    sha256 = "72186259d47783628f6a0721fc18549072d8c65810f6906c4d1a6fe2544be0b5"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.x86_64-apple-darwin.tar.gz"
+[[CLIME]]
+arch = "x86_64"
+git-tree-sha1 = "63cca4fcaad2c32efc87f3b6a59030fff5c5bfc9"
+libc = "glibc"
+os = "linux"
+
+    [[CLIME.download]]
+    sha256 = "9a2e7c44a162dd59c60294b3642d36fddc6c9a5b50a7871e73a7895f7d0f947b"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.x86_64-linux-gnu.tar.gz"
+[[CLIME]]
+arch = "x86_64"
+git-tree-sha1 = "a80052b9d9a34e32d8ea2497d6cf5b3c6e9cf897"
+libc = "musl"
+os = "linux"
+
+    [[CLIME.download]]
+    sha256 = "9fadcdd39857155f4d3e336328df21c516d23fa266da7d3fe8640558449db356"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.x86_64-linux-musl.tar.gz"
+[[CLIME]]
+arch = "x86_64"
+git-tree-sha1 = "3708f48e7f095ee644adfdada35f93a368505e77"
+os = "freebsd"
+
+    [[CLIME.download]]
+    sha256 = "7358cd6ca79d5a58bd22694885713dc477a0eba76315d594a31b78d88d0bbe73"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.x86_64-unknown-freebsd.tar.gz"
+[[CLIME]]
+arch = "x86_64"
+git-tree-sha1 = "ce6a02faab29101fe85aed39f375aca3438168d7"
+os = "windows"
+
+    [[CLIME.download]]
+    sha256 = "1a61ce038c97aa7c1103fa8f3032d8ba706d171958cc839608682144b4ce0ca7"
+    url = "https://github.com/JuliaBinaryWrappers/CLIME_jll.jl/releases/download/CLIME-v1.3.2+0/CLIME.v1.3.2.x86_64-w64-mingw32.tar.gz"
